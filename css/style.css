@@ -1,0 +1,17 @@
+body {
+    background-color : #F3E9DD;
+}
+
+hr {
+    border-style : none;
+    border-top : 8px dotted #AD8B73;
+    width : 8%;
+}
+
+h1 {
+    background-color : #DAB88B
+}
+
+h2 {
+    color : #AD8B73
+}
