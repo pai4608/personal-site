@@ -1,6 +1,7 @@
 body {
     background-color : #F3E9DD;
-    font-size : 50px;
+    font-size : 35px;
+    line-height : 1.5;
 }
 
 hr {
@@ -12,9 +13,21 @@ hr {
 h1 {
     background-color : #DAB88B;
     font-size : 80px;
+    line-height: normal;
 }
 
 h2 {
     color : #AD8B73;
     font-size : 60px;
+    line-height: normal;
+}
+
+li {
+    line-height : 2;
+}
+
+/***Class***/
+
+.pfp {
+    height : 300px;
 }
