@@ -9,9 +9,19 @@ hr {
 }
 
 h1 {
-    background-color : #DAB88B
+    background-color : #DAB88B;
+    font-size : 80px;
 }
 
 h2 {
-    color : #AD8B73
+    color : #AD8B73;
+    font-size : 60px;
+}
+
+p {
+    font-size : 25px;
+}
+
+li {
+    font-size : 25px;
 }
