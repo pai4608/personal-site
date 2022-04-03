@@ -1,5 +1,6 @@
 body {
     background-color : #F3E9DD;
+    font-size : 35px
 }
 
 hr {
@@ -16,12 +17,4 @@ h1 {
 h2 {
     color : #AD8B73;
     font-size : 60px;
-}
-
-p {
-    font-size : 25px;
-}
-
-li {
-    font-size : 25px;
 }
